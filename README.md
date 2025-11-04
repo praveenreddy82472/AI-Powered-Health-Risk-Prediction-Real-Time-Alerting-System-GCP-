@@ -162,10 +162,9 @@ These are connected to **Looker Studio**, giving stakeholders a clear view of pa
 ## 📈 Outcome
 This system provides **end-to-end automation** — from streaming patient vitals to predictive insights — demonstrating a **real-time AI-driven data engineering pipeline** on GCP.
 
+## REPORT
+![Report](https://github.com/praveenreddy82472/AI-Powered-Health-Risk-Prediction-Real-Time-Alerting-System-GCP/blob/main/Images/report.jpg)
 ---
 
-## 🧩 Summary (For Portfolio / Resume)
-> Built a real-time AI health monitoring pipeline using GCP (Pub/Sub, Dataflow, BigQuery, Cloud Composer, Looker) that detects high-risk patients and predicts health trends via BigQuery ML.
 
----
 
